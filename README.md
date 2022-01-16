@@ -43,7 +43,7 @@ These are the settings I used in FlashPrint 5.2.1:
  - Infull-Type: Hexagons
  - Activate Raft: Yes  (used the other default settings) 
 
-Today's printed parts (as given in [this picture](http://www.astrosurf.com/solex/images/image-collee-701-1.webp)):
+Today's printed parts (named as given in [this picture](http://www.astrosurf.com/solex/images/image-collee-701-1.webp)):
  - Interface tel. #1 (My T2-1.25" adapter fits snuggly, even on the first warped print)
  - Support fente #2
  - Bague collimateur #5
@@ -53,12 +53,17 @@ Today's printed parts (as given in [this picture](http://www.astrosurf.com/solex
  - Bague épaisseur #13
  - Raidisseur #14
 
+Here's a picture of the parts:
+![Picture of printed parts from #1 to #14 as given in list above](pics/2022-01-16.jpg)
+
 We will see, if I need to reprint the rings (#5 and #11) as they have a little bit of warping.
 
 The STL-files are [available on github](https://github.com/Vdesnoux/Sol-ex) and there are some extensions available in subdirs:
  - motorisation_fichiers, move the diffraction grating with a motor
  - cache_parasite, avoid scattered light in the sprectrometre body
  - vernier_reseau, a dial for more visually selecting the color that is centered in the cam. Couldn't find the print-out for that, yet.
+
+There is also a mailing list (french mostly): https://groups.io/g/Solex-project, on which new developments/extensions are reported.
 
 ### 2022-01-17
 Printing the upper body part.
