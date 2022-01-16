@@ -16,17 +16,21 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ### 2022-01-12
 The Shelyak kit arrived: Got the lenses, the diffraction grating, the slit and additional items for building a Star'ex. 
-This is the [kit from Shelyak](https://www.shelyak.com/produit/es0027-solex-and-starex-optical-kit/?lang=en).
+It's the [kit from Shelyak](https://www.shelyak.com/produit/es0027-solex-and-starex-optical-kit/?lang=en).
 
-M3 and M4 Screws are on the way. I ordered sets of M3 and M4 screws from 4 mm length up to 40 mm length and some additional washers. 
-Mold insert nuts are M3 and M4 from Ruthex. Unfortunately you don't find a bill of material on the original site.   
+M3 and M4 Screws are on the way. I ordered sets of M3 and M4 screws from 4 mm length up to 40 mm length and some 
+additional larger washers. Mold insert nuts are M3 and M4 from Ruthex. Unfortunately I couldn't find a bill of material 
+on the original site.   
 
 Hopefully one roll of PETG
 [black filament from dasfilament](https://www.dasfilament.de/filament-spulen/petg-1-75-mm/158/petg-filament-1-75-mm-schwarz?c=21) 
 is enough.
 
+### 2022-01-13
+Read the DADOS Tutorials by [Bernd Koch](http://astrofoto.de/german/profil/fprofil.htm) available [here](https://www.baader-planetarium.com/de/blog/neue-tutorials-fuer-den-dados-spaltspektrografen/) on Baader's site (in German, english version available [here](https://www.unitronitalia.com/schede/Baader-Dados-tutorial.pdf - very slow download). Ordered a MegaMan lamp for callibration purposes.
+
 ### 2022-01-14
-Ordered two helical ZWO focusers and a T2-1.25" adapter.
+Ordered two [helical ZWO focusers](https://www.astroshop.eu/focusers/zwo-helical-focuser-1-25-/p,63166) and a T2-1.25" adapter.
 
 ### 2022-01-16
 Conducted first prints with the PETG filament on a Flashforge Finder. The PETG is much more prone to warping, i.e. a raft and 
@@ -40,13 +44,21 @@ These are the settings I used in FlashPrint 5.2.1:
  - Activate Raft: Yes  (used the other default settings) 
 
 Today's printed parts (as given in [this picture](http://www.astrosurf.com/solex/images/image-collee-701-1.webp)):
- - Support fente #2
  - Interface tel. #1 (My T2-1.25" adapter fits snuggly, even on the first warped print)
+ - Support fente #2
  - Bague collimateur #5
+ - Support réseau #9
+ - Patte réseau #10
  - Bague objective #11
  - Bague épaisseur #13
  - Raidisseur #14
 
-We will see, if I need to reprint the rings as they have a little bit of warping.
+We will see, if I need to reprint the rings (#5 and #11) as they have a little bit of warping.
 
-### 
+The STL-files are [available on github](https://github.com/Vdesnoux/Sol-ex) and there are some extensions available in subdirs:
+ - motorisation_fichiers, move the diffraction grating with a motor
+ - cache_parasite, avoid scattered light in the sprectrometre body
+ - vernier_reseau, a dial for more visually selecting the color that is centered in the cam. Couldn't find the print-out for that, yet.
+
+### 2022-01-17
+Printing the upper body part.
