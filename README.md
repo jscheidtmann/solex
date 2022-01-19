@@ -66,4 +66,27 @@ The STL-files are [available on github](https://github.com/Vdesnoux/Sol-ex) and 
 There is also a mailing list (french mostly): https://groups.io/g/Solex-project, on which new developments/extensions are reported.
 
 ### 2022-01-17
-Printing the upper body part.
+Printing the upper body part. Unfortunately this large element experienced some warping. Fortunately, the body is large enough, so that the optical path is not affected by the warping. 
+
+### 2022-01-18
+Printing the lower body part. I made especially sure that a good layer of glue is present on the 3D-printing bed. 4 hours into the printing, one edge of the body had disconnected from the bed and warping developed, which is similar to the upper body part printed yesterday. Hopefully I am able to account for the warping with the screws. If needed, I will have to print something so that the "Radisseur" (stiffener) plate is at its expected position. 
+
+### 2022-01-19
+Printed the two tubes (#4 and #12) and the collimator block (#3). The helical focusers and the T2-adapter arrived. Now everything is there to finish the Sol-ex.
+
+The grating holder did not fit into the body part, so I had to sand the opening and the grating holder. I also sanded the body parts where they are in contact, in order get a tight fit. The T2-adapter fits nicely into the interface (#1). I printed it with-out raft (and it had no warping) and with normal layer thickness.
+
+So far I was unable to fit the focuser on the respective tube (#12). I should have printed it in "fine" setting, but did use the normal setting, as the T2 adapter fitted perfectly in part #1. The problem is that the tube-thread does not grip the thread in the focuser. Or when it does, it's only one side of the tube and the tube gets stuck after a couple of degrees. I will reprint this one using "fine" layer thickness and probably use another slicer that randomizes the start point of outer layers. Hopefully this I'll be finished with this tomorrow. I will not use a raft, but then may have some elefant foot, which I should be able to cure with a bit of sanding.
+
+Using the candle method I installed all Ruthex M4 and M3 threaded inserts in the body parts. A few seconds in the candle was enough. 
+
+The collimator block needs a tad more sanding on the telescope side, as a slight warping is present. I also need to sand the tube to make it fit in the openinig of the collimator block. The slit holder will need the same treatment. 
+
+### 2022-01-20
+TODO: 
+ - Print the tube for camera end: no raft, fine layer setting, randomize start point.
+ - Sand collimator block
+ - Sand slit holder
+ - Sand tube for collimator block
+
+ 
