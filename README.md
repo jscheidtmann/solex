@@ -97,14 +97,15 @@ I tried to print the disk to rotate the grating (#8). Unfortunately the infill s
 
 Sanded collimator block and slit holder. Now they fit easily into each other. Mounted the slit on the holder and the holder in the collimator block. I first tried using washers, but that didn't work out well. I should have watched the video, where no washers are present. 
  
-The tube for the camera still does not fit nicely into the thread of the helical focuser. After half an hour of trying to get the tube in, I printed [a centering piece](pics/centering_piece.dae) to contrain the axis and get it easier on the focuser ([STL is here](pics/centering_piece.stl), original is [here on onshape](https://cad.onshape.com/documents/316c2c867ffea37441e19b92/w/02e4e45af20289e9be0c906b/e/80cd2974380ce7f4b167423d) - you need an account).
+The tube for the camera still does not fit nicely into the thread of the helical focuser. After half an hour of trying to get the tube in, I printed [a centering piece](pics/centering_piece.dae) (click on raw to download) to contrain the axis and get it easier on the focuser ([STL is here](pics/centering_piece.stl), original is [here on onshape](https://cad.onshape.com/documents/316c2c867ffea37441e19b92/w/02e4e45af20289e9be0c906b/e/80cd2974380ce7f4b167423d) - you need an account).
 
 ![Center piece usage](pics/centering_piece.jpg)
 
 Place the centering piece in the hole of the optical tube, then fix it to the tube with a piece of wood and a screw long enough (see picture). Then place this in the ZWO helical focuser and the thread of the tube is constraint to be parallel to the focuser's thread. Apply some force to get the threads grip each other and then screw it in. In the end I used a pipe wrench to screw it all in, because it was really slippery in my hands and I was not able to create the needed torque. Then remove the screw with the wood and remove the centering piece (this is the state the picture shows). In my case, I did not make the 1.25" inch part long enough and it started turning in the focuser. I fixed that using two nails (note: the STL has been fixed to be longer, so you can grip it by hand or with a wrench).  
 
 TODO:
- - Print disk for turning the grating. 
+ - Print disk for turning the grating.
+ - Assemble lenses into tubes 
  - Collimate and assemble optical components.
 
 Looks like a "first light" is possible tomorrow. Keep your fingers crossed.
