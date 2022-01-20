@@ -54,7 +54,8 @@ Today's printed parts (named as given in [this picture](http://www.astrosurf.com
  - Raidisseur #14
 
 Here's a picture of the parts:
-<img src="pics/solex_first_parts_small.jpg" width=100></img>
+
+<img src="pics/solex_first_parts_small.jpg" width=300></img>
 
 We will see, if I need to reprint the rings (#5 and #11) as they have a little bit of warping.
 
