@@ -83,7 +83,7 @@ Using the candle method I installed all Ruthex M4 and M3 threaded inserts in the
 The collimator block needs a tad more sanding on the telescope side, as a slight warping is present. I also need to sand the tube to make it fit in the openinig of the collimator block. The slit holder will need the same treatment. 
 
 Assembled the grating. The holder is a snug fit for the grating: I had to apply quite some force to fully place it on the holder.
-I had to press a bit to get down all the way.
+I had to press a bit to get it down all the way.
 
 TODO: 
  - Print the tube for camera end: no raft, fine layer setting, randomize start point.
@@ -101,7 +101,7 @@ The tube for the camera still does not fit nicely into the thread of the helical
 
 ![Center piece usage](pics/centering_piece.jpg)
 
-Place the centering piece in the hole of the optical tube, then fix it to the tube with a piece of wood and a screw long enough (see picture). Then place this in the ZWO helical focuser and the thread of the tube is constraint to be parallel to the focuser's thread. Apply some force to get the threads grip each other and then screw it in. In the end I used a pipe wrench to screw it all in, because it was really slippery in my hands and I was not able to create the needed torque. Then remove the screw with the wood and remove the centering piece. In my case, I did not make the 1.25" inch part long enough and it started turning in the focuser. I fixed that using two nails (note: the STL has been fixed to be longer, so you can grip it by hand or with a wrench).  
+Place the centering piece in the hole of the optical tube, then fix it to the tube with a piece of wood and a screw long enough (see picture). Then place this in the ZWO helical focuser and the thread of the tube is constraint to be parallel to the focuser's thread. Apply some force to get the threads grip each other and then screw it in. In the end I used a pipe wrench to screw it all in, because it was really slippery in my hands and I was not able to create the needed torque. Then remove the screw with the wood and remove the centering piece (this is the state the picture shows). In my case, I did not make the 1.25" inch part long enough and it started turning in the focuser. I fixed that using two nails (note: the STL has been fixed to be longer, so you can grip it by hand or with a wrench).  
 
 TODO:
  - Print disk for turning the grating. 
