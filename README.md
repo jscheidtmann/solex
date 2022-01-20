@@ -97,7 +97,7 @@ I tried to print the disk to rotate the grating (#8). Unfortunately the infill s
 
 Sanded collimator block and slit holder. Now they fit easily into each other. Mounted the slit on the holder and the holder in the collimator block. I first tried using washers, but that didn't work out well. I should have watched the video, where no washers are present. 
  
-The tube for the camera still does not fit nicely into the thread of the helical focuser. After half an hour of trying to get the tube in, I printed [a centering piece](https://cad.onshape.com/documents/316c2c867ffea37441e19b92/w/02e4e45af20289e9be0c906b/e/80cd2974380ce7f4b167423d) to contrain the axis and get it easier on the focuser ([STL is here](pics/centering_piece.stl)).
+The tube for the camera still does not fit nicely into the thread of the helical focuser. After half an hour of trying to get the tube in, I printed [a centering piece](pics/centering_piece.dae) to contrain the axis and get it easier on the focuser ([STL is here](pics/centering_piece.stl), original is [here on onshape](https://cad.onshape.com/documents/316c2c867ffea37441e19b92/w/02e4e45af20289e9be0c906b/e/80cd2974380ce7f4b167423d) - you need an account).
 
 ![Center piece usage](pics/centering_piece.jpg)
 
