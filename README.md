@@ -93,7 +93,7 @@ TODO:
 
 ### 2022-01-20
 Printed the tube for the camera end: no raft, fine layer setting. Did not randomize start points.
-I tried to print the disk to rotate the grating (#8). Unfortunately the infill set-up has been destroyed (or there's a bug in the slicer) and the disk has been printed with-out infill. So will need to repeat that tomorrow.
+I tried to print the disk to rotate the grating (#8). Unfortunately the infill set-up has been destroyed (or there's a bug in the slicer or, worst case, there's some dirt in the nozzle) and the disk has been printed with-out infill. So will need to repeat that tomorrow.
 
 Sanded collimator block and slit holder. Now they fit easily into each other. Mounted the slit on the holder and the holder in the collimator block. I first tried using washers, but that didn't work out well. I should have watched the video, where no washers are present. 
  
@@ -104,7 +104,7 @@ The tube for the camera still does not fit nicely into the thread of the helical
 Place the centering piece in the hole of the optical tube, then fix it to the tube with a piece of wood and a screw long enough (see picture). Then place this in the ZWO helical focuser and the thread of the tube is constraint to be parallel to the focuser's thread. Apply some force to get the threads grip each other and then screw it in. In the end I used a pipe wrench to screw it all in, because it was really slippery in my hands and I was not able to create the needed torque. Then remove the screw with the wood and remove the centering piece (this is the state the picture shows). In my case, I did not make the 1.25" inch part long enough and it started turning in the focuser. I fixed that using two nails (note: the STL has been fixed to be longer, so you can grip it by hand or with a wrench).  
 
 TODO:
- - Print disk for turning the grating.
+ - Print disk for tuning the grating.
  - Assemble lenses into tubes 
  - Collimate and assemble optical components.
 
