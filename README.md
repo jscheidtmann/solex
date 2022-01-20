@@ -54,7 +54,7 @@ Today's printed parts (named as given in [this picture](http://www.astrosurf.com
  - Raidisseur #14
 
 Here's a picture of the parts:
-![Picture of printed parts from #1 to #14 as given in list above](pics/solex_first_parts_small.jpg  | width=100)
+<img src="pics/solex_first_parts_small.jpg" width=100></img>
 
 We will see, if I need to reprint the rings (#5 and #11) as they have a little bit of warping.
 
@@ -79,17 +79,15 @@ The grating holder did not fit into the body part, so I had to sand the opening 
 So far I was unable to fit the focuser on the respective tube (#12). I should have printed it in "fine" setting, but did use the normal setting, as the T2 adapter fitted perfectly in part #1. The problem is that the tube-thread does not grip the thread in the focuser. Or when it does, it's only one side of the tube and the tube gets stuck after a couple of degrees. I will reprint this one using "fine" layer thickness and probably use another slicer that randomizes the start point of outer layers. Hopefully this I'll be finished with this tomorrow. I will not use a raft, but then may have some elefant foot, which I should be able to cure with a bit of sanding.
 
 Using the candle method I installed all Ruthex M4 and M3 threaded inserts in the body parts. A few seconds in the candle was enough. 
+Some screws in the area where warping occurred could not be pushed fully in. As the screws are anyway pulling them further in, probably no problem. 
 
+![TODO](pics/insert_sticking_out.jpg)
+
+Here are the 
 The collimator block needs a tad more sanding on the telescope side, as a slight warping is present. I also need to sand the tube to make it fit in the openinig of the collimator block. The slit holder will need the same treatment. 
 
 Assembled the grating. The holder is a snug fit for the grating: I had to apply quite some force to fully place it on the holder.
 I had to press a bit to get it down all the way.
-
-TODO: 
- - Print the tube for camera end: no raft, fine layer setting, randomize start point.
- - Sand collimator block
- - Sand slit holder
- - Sand tube for collimator block
 
 ### 2022-01-20
 Printed the tube for the camera end: no raft, fine layer setting. Did not randomize start points.
@@ -97,7 +95,7 @@ I tried to print the disk to rotate the grating (#8). Unfortunately the infill s
 
 Sanded collimator block and slit holder. Now they fit easily into each other. Mounted the slit on the holder and the holder in the collimator block. I first tried using washers, but that didn't work out well. I should have watched the video, where no washers are present. 
  
-The tube for the camera still does not fit nicely into the thread of the helical focuser. After half an hour of trying to get the tube in, I printed [a centering piece](pics/centering_piece.dae) (click on raw to download) to contrain the axis and get it easier on the focuser ([STL is here](pics/centering_piece.stl), original is [here on onshape](https://cad.onshape.com/documents/316c2c867ffea37441e19b92/w/02e4e45af20289e9be0c906b/e/80cd2974380ce7f4b167423d) - you need an account).
+The tube for the camera still does not fit nicely into the thread of the helical focuser. After half an hour of trying to get the tube in, I printed [a centering piece](pics/centering_piece.stl) (click to download STL) to contrain the axis and get it easier on the focuser ([3D model is here](pics/centering_piece.stl), original is [here on onshape](https://cad.onshape.com/documents/316c2c867ffea37441e19b92/w/02e4e45af20289e9be0c906b/e/80cd2974380ce7f4b167423d) - you need an account).
 
 ![Center piece usage](pics/centering_piece.jpg)
 
