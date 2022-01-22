@@ -115,15 +115,20 @@ The picture of the slit is completely off-axis. Turns out, that the warping is m
 
 ### 2022-01-22
 
-Determined the warping: Taking the surface, where the two body parts touch each other as a reference line, the height of the wall on the telescope side has a difference of approximately 1.2mm and the wall thickness of the hole differs by another 0.3mm. I decide to print a wedge, that I'll glue on the body part under the turning wheel. That way the image slit should be centered again. As the turning wheel will have 3 points it is resting on, this should be stable, once the angle of the grating is fixated using the screws.
-
-<img src="pics/wedge_construction.png"></img> <img src="pics/wedge_printed.jpg" height="3cm"></img> <img src="pics/wedge_installed.jpg" height="3cm"></img>
-
-I print two of these wedges with different heights and settle on the larger one. Looks good now in the crosshair eye piece:
-
-<img src="pics/crosshair.jpg" width="20%"/>
-
 Weather is still foggy but got a bit better than yesterday. So 1-2 km has to be infinite enough for the moment..
+Recollimated the device using this setting.
+
+Determined the warping: Taking the surface, where the two body parts touch each other as a reference line, the height of the wall on the telescope side has a difference of approximately 1.2mm and the wall thickness of the hole differs by another 0.3mm. I decide to print a wedge, that I'll glue on the body part under the turning wheel. That way the image slit should be centered again. As the turning wheel will have 3 points it is resting on, this should be stable, once the position of the grating is fixated using the screws.
+
+<img src="pics/wedge_construction.png"></img> <img src="pics/wedge_printed.jpg"></img>
+
+I print 4 of these wedges with different heights and settle on the slimest one. Looks good now in the crosshair eye piece:
+
+<img src="pics/crosshair.jpg" width="20%"></img>
+
+My ASI224mc now gets some high resolution images of the Na-doublet(?):
+
+<img src="pics/asi224mc.jpg" witdth="30%"></img>
 
 TODO:
  - Check collimation when the weather is better.
