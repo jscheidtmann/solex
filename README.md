@@ -86,7 +86,7 @@ So far I was unable to fit the focuser on the respective tube (#12). I should ha
 Using the candle method I installed all Ruthex M4 and M3 threaded inserts in the body parts. A few seconds in the candle was enough. 
 Some screws in the area where warping occurred could not be pushed fully in. As the screws are anyway pulling them further in, probably no problem. 
 
-<img src="pics/insert_sticking_out.jpg" width="20%" alt="Threaded insert sticking out"></img>
+<img src="pics/insert_sticking_out.jpg" width="20%" alt="Threaded insert sticking out" />
 
 The collimator block needs a tad more sanding on the telescope side, as a slight warping is present. I also need to sand the tube to make it fit in the openinig of the collimator block. The slit holder will need the same treatment. 
 
@@ -107,8 +107,23 @@ Place the centering piece in the hole of the optical tube, then fix it to the tu
 
 Looks like a "first light" is possible tomorrow. Keep your fingers crossed.
 
-TODO:
- - Print disk for tuning the grating.
- - Assemble lenses into tubes 
- - Collimate and assemble optical components.
+### 2022-01-21
 
+Printed the disk for turning the grating. Assembled the lenses into the tubes. Used my 20mm cross-hair eye piece for collimating the slit-side. Unfortunately there's fog outside and I could not use objects from a real distance for fixing the focus. I therefore may need to repeat the procedure when the weather is better. 
+
+The picture of the slit is completely off-axis. Turns out, that the warping is much heavier than expected. 
+
+### 2022-01-22
+
+Determined the warping: Taking the surface, where the two body parts touch each other as a reference line, the height of the wall on the telescope side has a difference of approximately 1.2mm and the wall thickness of the hole differs by another 0.3mm. I decide to print a wedge, that I'll glue on the body part under the turning wheel. That way the image slit should be centered again. As the turning wheel will have 3 points it is resting on, this should be stable, once the angle of the grating is fixated using the screws.
+
+<img src="pics/wedge_construction.png" height="3cm"/> <img src="pics/wedge_printed.jpg" height="3cm"/> <img src="pics/wedge_installed.jpg" height="3cm"/>
+
+I print two of these wedges with different heights and settle on the larger one. Looks good now in the crosshair eye piece:
+
+<img src="pics/crosshair.jpg" width="20%"/>
+
+Weather is still foggy but got a bit better than yesterday. So 1-2 km has to be infinite enough for the moment..
+
+TODO:
+ - Check collimation when the weather is better.
