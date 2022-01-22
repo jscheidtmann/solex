@@ -130,7 +130,7 @@ My ASI224mc now gets some high resolution images of the Na-doublet(?):
 
 <img src="pics/asi224mc.jpg" witdth="30%"></img>
 
-This is the fully built device: 
+This is the device built: 
 
 ![Grimaldi's Sol'ex](pics/grimaldi_solex.jpg)
 
