@@ -72,6 +72,10 @@ Printing the upper body part. Unfortunately this large element experienced some 
 ### 2022-01-18
 Printing the lower body part. I made especially sure that a good layer of glue is present on the 3D-printing bed. 4 hours into the printing, one edge of the body had disconnected from the bed and warping developed, which is similar to the upper body part printed yesterday. Hopefully I am able to account for the warping with the screws. If needed, I will have to print something so that the "Radisseur" (stiffener) plate is at its expected position. 
 
+Here are pictures of both parts, so you can see the warping:
+
+![Picture of body parts with warping ()](pics/body_parts_1.jpg) ![Picture of body parts with warping ()](pics/body_parts_2.jpg) 
+
 ### 2022-01-19
 Printed the two tubes (#4 and #12) and the collimator block (#3). The helical focusers and the T2-adapter arrived. Now everything is there to finish the Sol-ex.
 
@@ -102,9 +106,10 @@ The tube for the camera still does not fit nicely into the thread of the helical
 
 Place the centering piece in the hole of the optical tube, then fix it to the tube with a piece of wood and a screw long enough (see picture). Then place this in the ZWO helical focuser and the thread of the tube is constraint to be parallel to the focuser's thread. Apply some force to get the threads grip each other and then screw it in. In the end I used a pipe wrench to screw it all in, because it was really slippery in my hands and I was not able to create the needed torque. Then remove the screw with the wood and remove the centering piece (this is the state the picture shows). In my case, I did not make the 1.25" inch part long enough and it started turning in the focuser. I fixed that using two nails (note: the STL has been fixed to be longer, so you can grip it by hand or with a wrench).  
 
+Looks like a "first light" is possible tomorrow. Keep your fingers crossed.
+
 TODO:
  - Print disk for tuning the grating.
  - Assemble lenses into tubes 
  - Collimate and assemble optical components.
 
-Looks like a "first light" is possible tomorrow. Keep your fingers crossed.
