@@ -86,7 +86,7 @@ So far I was unable to fit the focuser on the respective tube (#12). I should ha
 Using the candle method I installed all Ruthex M4 and M3 threaded inserts in the body parts. A few seconds in the candle was enough. 
 Some screws in the area where warping occurred could not be pushed fully in. As the screws are anyway pulling them further in, probably no problem. 
 
-<img src="pics/insert_sticking_out.jpg" width="15%">Insert sticking out</img>)
+<img src="pics/insert_sticking_out.jpg" width="20%" alt="Threaded insert sticking out"></img>
 
 The collimator block needs a tad more sanding on the telescope side, as a slight warping is present. I also need to sand the tube to make it fit in the openinig of the collimator block. The slit holder will need the same treatment. 
 
