@@ -145,14 +145,14 @@ TODO:
 
 This is a summary of the cameras, sensor sizes and recommended focal lengths, summed up from the [construction page](http://www.astrosurf.com/solex/sol-ex-construction-en.html):
 
-| Camera | Sensor | Sensor Size | Sensor Dimensions / mm² | Pixel Size / µm | Resolution / Å/px | Max Focal Length | Slit/Cam Limited | Tube mod | 
+| Camera | Sensor | Sensor Size | Sensor Dimensions / mm² | Pixel Size / µm | Resolution / Å/px | Max Focal Length / mm | Slit/Cam Limited | Tube mod | 
 |:----------|:-----------:|:------:|:---------:|----:|------------:|-------:|:------|:--:|
-| ASI178mm  | Sony IMX178 | 1/1.8" | 7.5 x 5.0 | 2.4 | 0.0626 | 480 mm | ideal | No |
-| ASI290mm  | Sony IMX290 | 1.3" | 5.6 x 3.2 | 2.9 | 0.0726 | 380 mm | Cam | No |
-| ASI174mm  | Sony IMX174 | 1/1.2" | 11.3 x 7.1 | 5.86 | 0.1440 | 480 mm | Slit | No |
-| ASI183mm  | Sony IMX183 | 1"     | 13.2 x 8.8 | 2.4 | 0.0626 | 480 mm | Slit | No |
-| ASI294mm  | Sony IMX294 | 4/3"   | 19.1 x 13.0 | 4.63 |  0.0604 | 480 mm | Slit | No |
-| ASI6200mm | Sony IMX455 | full frame | 36 x 24 | 3.76 |  1.028 | 480 mm | Slit | Yes (short) |
+| ASI178mm  | Sony IMX178 | 1/1.8" | 7.5 x 5.0 | 2.4 | 0.0626 | 480 | ideal | No |
+| ASI290mm  | Sony IMX290 | 1.3" | 5.6 x 3.2 | 2.9 | 0.0726 | 380 | Cam | No |
+| ASI174mm  | Sony IMX174 | 1/1.2" | 11.3 x 7.1 | 5.86 | 0.1440 | 480 | Slit | No |
+| ASI183mm  | Sony IMX183 | 1"     | 13.2 x 8.8 | 2.4 | 0.0626 | 480 | Slit | No |
+| ASI294mm  | Sony IMX294 | 4/3"   | 19.1 x 13.0 | 4.63 |  0.0604 | 480 | Slit | No |
+| ASI6200mm | Sony IMX455 | full frame | 36 x 24 | 3.76 |  1.028 | 480 | Slit | Yes (short) |
 | Sony Alpha DLSR | Sony  | full frame | 36 x 24 | 8.7 |  -/- | -/- | -/- | Yes (APN) |
 | ASI224mc | Sony IMX224 | 1/3" | 4.9 x 3.7 | 3.75 |  -/- | ? | Cam | No | 
 
