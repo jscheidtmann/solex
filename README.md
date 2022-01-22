@@ -146,15 +146,15 @@ TODO:
 This is a summary of the cameras, sensor sizes and recommended focal lengths, summed up from the [construction page](http://www.astrosurf.com/solex/sol-ex-construction-en.html):
 
 |:----------|:-----------:|:------:|:---------:|:--:|-------------:|-------:|:------|
-| Camera    | Sensor | Sensor Size | Sensor Dimensions / mm² | Adaption needed | Resolution / AA/pix | Max Focal Length | Slit/Cam Limited |
+| Camera    | Sensor | Sensor Size | Sensor Dimensions / mm² | Tube mod | Resolution / AA/pix | Max Focal Length | Slit/Cam Limited |
 |-|-|-|-|-|-|-|-|
 | ASI178mm  | Sony IMX178 | 1/1.8" | 7.5 x 5.0 | No |  0.0626 A/px | 480 mm | ideal |
 | ASI290    | Sony IMX290 | 1/1.3" | 5.6 x 3.2 | No | 0.0726 A/px | 380 mm | Cam |
 | ASI174mm  | Sony IMX174 | 1/1.2" | 11.3 x 7.1 | No | 0.1440 A/px | 480 mm | Slit |
 | ASI183mm  | Sony IMX183 | 1"     | 13.2 x 8.8 | No | 0.0626 A/px | 480 mm | Slit |
 | ASI294mm  | Sony IMX294 | 4/3"   | 19.1 x 13.0 | No | 0.0604 A/px | 480 mm | Slit |
-| ASI6200mm | Sony IMX455 | full frame | 36 x 24 | No | 1.028 A/px | 480 mm | Slit |
-| 
+| ASI6200mm | Sony IMX455 | full frame | 36 x 24 | Yes (short) | 1.028 A/px | 480 mm | Slit |
+| Sony Alpha DLSR | Sony  | full frame | 36 x 24 | Yes (APN) | -/- | -/- | -/- |
 |-|-|-|-|-|-|-|-|
 
 Note: The entrance slit is 4.5mm long. 
