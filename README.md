@@ -154,7 +154,7 @@ This is a summary of the cameras, sensor sizes and recommended focal lengths, su
 | ASI294mm  | Sony IMX294 | 4/3"   | 19.1 x 13.0 | 4.63 |  0.0604 | 480 | Slit | No |
 | ASI6200mm | Sony IMX455 | full frame | 36 x 24 | 3.76 |  1.028 | 480 | Slit | Yes (short) |
 | Sony Alpha DLSR | Sony  | full frame | 36 x 24 | 8.7 |  -/- | -/- | -/- | Yes (APN) |
-| ASI224mc | Sony IMX224 | 1/3" | 4.9 x 3.7 | 3.75 |  -/- | ? | Cam | No | 
+| ASI224mc | Sony IMX224 | 1/3" | 4.9 x 3.7 | 3.75 |  -/- | 300? | Cam | No | 
 
 Note: The entrance slit is 4.5mm long. 
 See: https://en.wikipedia.org/wiki/Crop_factor for a comparison of sensor formats
