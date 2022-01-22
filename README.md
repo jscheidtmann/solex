@@ -122,7 +122,7 @@ Determined the warping: Taking the surface, where the two body parts touch each 
 
 <img src="pics/wedge_construction.png" height="100px"></img> <img src="pics/wedge_printed.jpg" height="100px"></img>
 
-I print 4 of these wedges with different heights and settle on the slimest one. Looks good now in the crosshair eye piece:
+I print 5 of these wedges with different heights and settle on the slimest one. Looks good now in the crosshair eye piece (sorry, taken with cell phone, the cross-hair center should be roughly at the middle of the slit):
 
 <img src="pics/crosshair.jpg" width="20%"></img>
 
@@ -130,5 +130,11 @@ My ASI224mc now gets some high resolution images of the Na-doublet(?):
 
 <img src="pics/asi224mc.jpg" witdth="30%"></img>
 
+This is the fully built device: 
+
+![Grimaldi's Sol'ex](pics/grimaldi_solex.jpg)
+
 TODO:
- - Check collimation when the weather is better.
+ - Re-Check collimation when the weather is better.
+ - Re-Check orientation of slit and camera.
+ - Capture a solar video and try INTI.
