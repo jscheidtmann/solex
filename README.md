@@ -120,7 +120,7 @@ Recollimated the device using this setting.
 
 Determined the warping: Taking the surface, where the two body parts touch each other as a reference line, the height of the wall on the telescope side has a difference of approximately 1.2mm and the wall thickness of the hole differs by another 0.3mm. I decide to print a wedge, that I'll glue on the body part under the turning wheel. That way the image slit should be centered again. As the turning wheel will have 3 points it is resting on, this should be stable, once the position of the grating is fixated using the screws.
 
-<img src="pics/wedge_construction.png"></img> <img src="pics/wedge_printed.jpg"></img>
+<img src="pics/wedge_construction.png" height="100px"></img> <img src="pics/wedge_printed.jpg" height="100px"></img>
 
 I print 4 of these wedges with different heights and settle on the slimest one. Looks good now in the crosshair eye piece:
 
