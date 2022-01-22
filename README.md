@@ -145,7 +145,7 @@ TODO:
 
 This is a summary of the cameras, sensor sizes and recommended focal lengths, summed up from the [construction page](http://www.astrosurf.com/solex/sol-ex-construction-en.html):
 
-| Camera | Sensor | Sensor Size | Sensor Dimensions / mm² | Pixel Size / mu-m | Resolution / AA/pix | Max Focal Length | Slit/Cam Limited | Tube mod | 
+| Camera | Sensor | Sensor Size | Sensor Dimensions / mm² | Pixel Size / µm | Resolution / AA/pix | Max Focal Length | Slit/Cam Limited | Tube mod | 
 |:----------|:-----------:|:------:|:---------:|----:|------------:|-------:|:------|:--:|
 | ASI178mm  | Sony IMX178 | 1/1.8" | 7.5 x 5.0 | 2.4 | 0.0626 A/px | 480 mm | ideal | No |
 | ASI290mm  | Sony IMX290 | 1.3" | 5.6 x 3.2 | 2.9 | 0.0726 A/px | 380 mm | Cam | No |
