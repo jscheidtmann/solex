@@ -208,7 +208,7 @@ of sun (and then fast moving clouds). Going outside with the family took precede
 
 In between I printed a holder/adapter for the calibration lamp:
 
-<img src="pics/calibrationlamp_in_tube.jpg" alt="Calibration lamp in tube" width="50%"></img><img src="pics/uniguider_with_calibrationlamp.jpg" alt="Calibration lamp tube attached to telescope"></img>
+<img src="pics/calibrationlamp_in_tube.jpg" alt="Calibration lamp in tube" width="50%"></img><img src="pics/uniguider_with_calibrationlamp.jpg" alt="Calibration lamp tube attached to telescope" width="50%"></img>
 
 
 
