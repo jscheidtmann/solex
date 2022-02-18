@@ -177,8 +177,7 @@ https://groups.io/g/Solex-project/topic/81036290#433
 
 Using long exposure times, I collect an example spectra of Mg triplet lines (with clouds):
 
-<img src="pics/mg_lines_1.jpeg" alt="Sol'Ex showing Mg Lines" width="50%"></img>
-<img src="pics/mg_lines_2.jpeg" alt="Comparing previous picture to sun spectrum" width="50%"></img>
+<img src="pics/mg_lines_1.jpeg" alt="Sol'Ex showing Mg Lines" width="50%"></img><img src="pics/mg_lines_2.jpeg" alt="Comparing previous picture to sun spectrum" width="50%"></img>
 
 The spectral resolution is awesome!
 
@@ -188,7 +187,7 @@ I attach my Sol'Ex to a William Optics "Uniguider" 50/200 (f/4) and use this to 
 It turns out that I have to use the smallest exposure times that my ASI224mc is capable of. I recognize too late, that 
 Christian uses a Herschel wedge in his videos. Fortunately my cam and the Sol'Ex are not damaged. 
 
-![Sol'Ex having first sun light](pics/solex_first_light.jpg)
+<img src="pics/solex_first_light.jpg" alt="Sol'Ex having first sun light" width="50%"></img>
 
 ## 2022-02-29 -- 2022-02-31
 
@@ -209,7 +208,7 @@ of sun (and then fast moving clouds). Going outside with the family took precede
 
 In between I printed a holder/adapter for the calibration lamp:
 
-![Calibration lamp in tube](pics/calibrationlamp_in_tube.jpg) ![Calibration lamp tube attached to telescope](pics/uniguider_with_calibrationlamp.jpg)
+<img src="pics/calibrationlamp_in_tube.jpg" alt="Calibration lamp in tube" width="50%"></img><img src="pics/uniguider_with_calibrationlamp.jpg" alt="Calibration lamp tube attached to telescope"></img>
 
 
 
