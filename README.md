@@ -187,7 +187,7 @@ I attach my Sol'Ex to a William Optics "Uniguider" 50/200 (f/4) and use this to 
 It turns out that I have to use the smallest exposure times that my ASI224mc is capable of. I recognize too late, that 
 Christian uses a Herschel wedge in his videos. Fortunately my cam and the Sol'Ex are not damaged. 
 
-<img src="pics/solex_first_light.jpg" alt="Sol'Ex having first sun light" width="50%"></img><img src="pics/solex_first_light_sunslice.jpg" alt="a slice of the sun seen in Sol'Ex" width="50%"></img>
+<img src="pics/solex_first_light.jpg" alt="Sol'Ex having first sun light" width="50%"></img><img src="pics/solex_first_light_sunslice.jpeg" alt="a slice of the sun seen in Sol'Ex" width="50%"></img>
 
 I am not able to focus the telecope correctly, as after 30 min clouds come in. 
 
