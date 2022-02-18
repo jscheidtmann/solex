@@ -183,6 +183,7 @@ The spectral resolution is awesome!
 
 I read a bit on the Sol'Ex groups.io and discover an Excel/Calc sheet for the geometry. It can be downloaded from this link
 into the groups.io archive: https://groups.io/g/Solex-project/topic/80304988?p=Created%2C%2C%2C20%2C2%2C0%2C0
+It is called: "SimSpec_SHG V1.3"
 
 ## 2022-01-28
 
