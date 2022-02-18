@@ -191,7 +191,7 @@ Christian uses a Herschel wedge in his videos. Fortunately my cam and the Sol'Ex
 
 I am not able to focus the telecope correctly, as after 30 min clouds come in. 
 
-## 2022-02-29 -- 2022-02-31
+## 2022-01-29 -- 2022-02-17
 
 I create a sun screen from [Baader AstroSolar® Safty Film 5.0](https://www.baader-planetarium.com/en/solar-observation/astrosolar-viewers-and-film/astrosolar-safety-film-od-5.0-(20x29-100x50-117x117-cm).html) 
 with 50mm diameter, but it turns out, 
