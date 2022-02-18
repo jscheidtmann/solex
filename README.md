@@ -161,19 +161,19 @@ This is a summary of the cameras, sensor sizes and recommended focal lengths, su
 Note: The entrance slit is 4.5mm long. 
 See: https://en.wikipedia.org/wiki/Crop_factor for a comparison of sensor formats
 
-## 2022-02-22
+## 2022-01-22
 
 I recollimated the camera side with an object on the horizon and across the city (4 km). Now when trying to collimate 
 the slit-side, it turns out that the collimator block needs to go in a few more millimeters. I use Forstner drills 
 to remove a bit of the outer layers and then are able to get it in focus/collimation. My Sol'Ex is not collimated 
 and ready to go. 
 
-## 2022-02-23
+## 2022-01-23
 
 I add a print-out of the colors on the Sol'Ex body: You can download a png file for the 2400 l/mm grating here:
 https://groups.io/g/Solex-project/topic/81036290#433
 
-## 2022-02-27
+## 2022-01-27
 
 Using long exposure times, I collect an example spectra of Mg triplet lines (with clouds):
 
@@ -181,7 +181,7 @@ Using long exposure times, I collect an example spectra of Mg triplet lines (wit
 
 The spectral resolution is awesome!
 
-## 2022-02-28
+## 2022-01-28
 
 I attach my Sol'Ex to a William Optics "Uniguider" 50/200 (f/4) and use this to capture my first image of the sun. 
 It turns out that I have to use the smallest exposure times that my ASI224mc is capable of. I recognize too late, that 
