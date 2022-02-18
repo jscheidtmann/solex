@@ -26,6 +26,8 @@ Hopefully one roll of PETG
 [black filament from dasfilament](https://www.dasfilament.de/filament-spulen/petg-1-75-mm/158/petg-filament-1-75-mm-schwarz?c=21) 
 is enough.
 
+Note: Later on it turned out that a two 50mm M4 screws are necessary. 
+
 ### 2022-01-13
 Read the DADOS Tutorials by [Bernd Koch](http://astrofoto.de/german/profil/fprofil.htm) available [here](https://www.baader-planetarium.com/de/blog/neue-tutorials-fuer-den-dados-spaltspektrografen/) on Baader's site (in German, english version available [here](https://www.unitronitalia.com/schede/Baader-Dados-tutorial.pdf - very slow download). Ordered a MegaMan lamp for callibration purposes.
 
@@ -81,7 +83,7 @@ Printed the two tubes (#4 and #12) and the collimator block (#3). The helical fo
 
 The grating holder did not fit into the body part, so I had to sand the opening and the grating holder. I also sanded the body parts where they are in contact, in order get a tight fit. The T2-adapter fits nicely into the interface (#1). I printed it with-out raft (and it had no warping) and with normal layer thickness.
 
-So far I was unable to fit the focuser on the respective tube (#12). I should have printed it in "fine" setting, but did use the normal setting, as the T2 adapter fitted perfectly in part #1. The problem is that the tube-thread does not grip the thread in the focuser. Or when it does, it's only one side of the tube and the tube gets stuck after a couple of degrees. I will reprint this one using "fine" layer thickness and probably use another slicer that randomizes the start point of outer layers. Hopefully this I'll be finished with this tomorrow. I will not use a raft, but then may have some elefant foot, which I should be able to cure with a bit of sanding.
+So far I was unable to fit the focuser on the respective tube (#12). I should have printed it in "fine" setting, but did use the normal setting, as the T2 adapter fitted perfectly in part #1. The problem is that the tube-thread does not grip the thread in the focuser. Or when it does, it's only one side of the tube and the tube gets stuck after a couple of degrees. I will reprint this one using "fine" layer thickness and probably use another slicer that randomizes the start point of outer layers. Hopefully this will be finished tomorrow. I will not use a raft, but then may have some elefant foot, which I should be able to cure with a bit of sanding.
 
 Using the candle method I installed all Ruthex M4 and M3 threaded inserts in the body parts. A few seconds in the candle was enough. 
 Some screws in the area where warping occurred could not be pushed fully in. As the screws are anyway pulling them further in, probably no problem. 
@@ -130,7 +132,7 @@ My ASI224mc now gets some high resolution images of the Na-doublet(?):
 
 <img src="pics/asi224mc.jpg" witdth="30%"></img>
 
-This is the device built: 
+This is the device built, it weights 750g (including camera): 
 
 ![Grimaldi's Sol'ex](pics/grimaldi_solex.jpg)
 
@@ -158,3 +160,55 @@ This is a summary of the cameras, sensor sizes and recommended focal lengths, su
 
 Note: The entrance slit is 4.5mm long. 
 See: https://en.wikipedia.org/wiki/Crop_factor for a comparison of sensor formats
+
+## 2022-02-22
+
+I recollimated the camera side with an object on the horizon and across the city (4 km). Now when trying to collimate 
+the slit-side, it turns out that the collimator block needs to go in a few more millimeters. I use Forstner drills 
+to remove a bit of the outer layers and then are able to get it in focus/collimation. My Sol'Ex is not collimated 
+and ready to go. 
+
+## 2022-02-23
+
+I add a print-out of the colors on the Sol'Ex body: You can download a png file for the 2400 l/mm grating here:
+https://groups.io/g/Solex-project/topic/81036290#433
+
+## 2022-02-27
+
+Using long exposure times, I collect an example spectra of Mg triplet lines (with clouds):
+
+![Sol'Ex showing Mg Lines](pics/mg_lines_1.jpeg) ![Comparing previous picture to sun spectrum](pics/mg_lines_2.jpeg)
+
+The spectral resolution is awesome!
+
+## 2022-02-28
+
+I attach my Sol'Ex to a William Optics "Uniguider" 50/200 (f/4) and use this to capture my first image of the sun. 
+It turns out that I have to use the smallest exposure times that my ASI224mc is capable of. I recognize too late, that 
+Christian uses a Herschel wedge in his videos. Fortunately my cam and the Sol'Ex are not damaged. 
+
+![Sol'Ex having first sun light](pics/solex_first_light.jpg)
+
+## 2022-02-29 -- 2022-02-31
+
+I create a sun screen from [Baader AstroSolar® Safty Film 5.0](https://www.baader-planetarium.com/en/solar-observation/astrosolar-viewers-and-film/astrosolar-safety-film-od-5.0-(20x29-100x50-117x117-cm).html) 
+with 50mm diameter, but it turns out, 
+that this is too much intensity reduction and one cannot get acceptable exposure times.  
+
+I [design](https://cad.onshape.com/documents/316c2c867ffea37441e19b92/w/02e4e45af20289e9be0c906b/e/fcda335b8769b052544592b2) and print a diaphragm, that stops down to f/10:
+
+![Diaphragma 20 mm diameter](pics/diaphragma_20mm.png)
+
+Due to bad weather, I am not able to test it out. 
+
+## 2022-02-18
+
+The last few week's weather has been awful: Mostly cloudy, sun not even visible, only a few days with a few hours 
+of sun (and then fast moving clouds). Going outside with the family took precedence. Yesterday and today Europe is hit by storms.
+
+In between I printed a holder/adapter for the calibration lamp:
+
+![Calibration lamp in tube](pics/calibrationlamp_in_tube.jpg) ![Calibration lamp tube attached to telescope](pics/uniguider_with_calibrationlamp.jpg)
+
+
+
