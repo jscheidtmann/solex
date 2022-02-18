@@ -156,7 +156,7 @@ This is a summary of the cameras, sensor sizes and recommended focal lengths, su
 | ASI294mm  | Sony IMX294 | 4/3"   | 19.1 x 13.0 | 4.63 |  0.0604 | 480 | Slit | No |
 | ASI6200mm | Sony IMX455 | full frame | 36 x 24 | 3.76 |  1.028 | 480 | Slit | Yes (short) |
 | Sony Alpha DLSR | Sony  | full frame | 36 x 24 | 8.7 |  -/- | -/- | -/- | Yes (APN) |
-| ASI224mc | Sony IMX224 | 1/3" | 4.9 x 3.7 | 3.75 |  -/- | 300? | Cam | No | 
+| ASI224mc  | Sony IMX224 | 1/3"   | 4.9 x 3.7   | 3.75 | -/- | 300? | Cam | No | 
 
 Note: The entrance slit is 4.5mm long. 
 See: https://en.wikipedia.org/wiki/Crop_factor for a comparison of sensor formats
@@ -177,7 +177,8 @@ https://groups.io/g/Solex-project/topic/81036290#433
 
 Using long exposure times, I collect an example spectra of Mg triplet lines (with clouds):
 
-![Sol'Ex showing Mg Lines](pics/mg_lines_1.jpeg) ![Comparing previous picture to sun spectrum](pics/mg_lines_2.jpeg)
+<img src="pics/mg_lines_1.jpeg" alt="Sol'Ex showing Mg Lines" width="50%"></img>
+<img src="pics/mg_lines_2.jpeg" alt="Comparing previous picture to sun spectrum" width="50%"></img>
 
 The spectral resolution is awesome!
 
