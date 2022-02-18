@@ -181,6 +181,9 @@ Using long exposure times, I collect an example spectra of Mg triplet lines (wit
 
 The spectral resolution is awesome!
 
+I read a bit on the Sol'Ex groups.io and discover an Excel/Calc sheet for the geometry. It can be downloaded from this link
+into the groups.io archive: https://groups.io/g/Solex-project/topic/80304988?p=Created%2C%2C%2C20%2C2%2C0%2C0
+
 ## 2022-01-28
 
 I attach my Sol'Ex to a William Optics "Uniguider" 50/200 (f/4) and use this to capture my first image of the sun. 
